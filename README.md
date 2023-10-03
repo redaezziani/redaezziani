@@ -1,6 +1,6 @@
 
-<div id="header"  width="100" align="center">
-  <img src="https://wallpaper.dog/large/20541143.png" width="100"/>
+<div id="header"  width="100%" align="center">
+  <img src="https://wallpaper.dog/large/20541143.png" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm reda ezziani</h1>
 <h3 align="center">A Passionate Moroccan Full Stack Developer 🚀</h3>
