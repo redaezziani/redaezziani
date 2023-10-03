@@ -1,5 +1,5 @@
 
-<div id="header" align="center">
+<div id="header"  width="100" align="center">
   <img src="https://wallpaper.dog/large/20541143.png" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm reda ezziani</h1>
