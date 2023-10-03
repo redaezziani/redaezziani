@@ -1,7 +1,4 @@
 
-<div id="header"  width="100%" align="center">
-  <img src="https://wallpaper.dog/large/20541143.png](https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D&w=1000&q=80" width="100%"/>
-</div>
 <h1 align="center">Hi 👋, I'm reda ezziani</h1>
 <h3 align="center">A Passionate Moroccan Full Stack Developer 🚀</h3>
 
