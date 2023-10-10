@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm reda ezziani</h1>
+<h1 align="center" color="red">Hi 👋, I'm reda ezziani</h1>
 <h3 align="center">A Passionate Moroccan Full Stack Developer 🚀</h3>
 
 - 🌱 I’m currently learning **Next js**
