@@ -1,4 +1,4 @@
-[![MasterHead](assets/languages2.png)](https://csfelix.github.io)
+[![MasterHead](languages2.png)]
 # 💫 About Me:
 🌱 I’m currently learning Next js<br><br> 💬 Ask me about react , frame motion , tailwind css<br><br>  📫 How to reach me klausdev2@gmail.com<br>
 
