@@ -1,4 +1,4 @@
-<img src='./languages2.png' alt='image'  /><br/>
+<img src='./languages2.png' alt='imge'  /><br/>
 # 💫 About Me:
 🌱 I’m currently learning Bun js<br><br> 💬 Ask me about react , frame motion, tailwind css<br><br>   How to reach me klausdev2@gmail.com<br>
 
