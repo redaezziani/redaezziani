@@ -13,10 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=redaezziani&theme=vue&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redaezziani&theme=vue&hide_border=false)
 <br/>
-
---
-
+[![](https://visitcount.itsvg.in/api?id=redaezziani&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
