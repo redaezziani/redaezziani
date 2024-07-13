@@ -1,4 +1,4 @@
-<img src='./image.png' alt='image' />
+
 
 # 💫 About Me:
 🌱 I’m currently learning Next Js 
