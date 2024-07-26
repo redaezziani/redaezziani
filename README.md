@@ -5,7 +5,8 @@
 
 💬 Ask me about Next.js, Frame Motion, Tailwind CSS
 
-📫 How to reach me: klausdev2@gmail.com 
+📫 How to reach me: redaezziani.dev@gmail.com 
+website:https://www.redaezziani.com/
 
 
 # 💻 Tech Stack:
