@@ -1,13 +1,14 @@
+Here's the updated LinkedIn description incorporating Laravel Livewire:
 
+---
 
 # 💫 About Me:
-🌱 I’m currently learning Next Js 
+🌱 I’m currently learning Next.js, Laravel Livewire, and Volt
 
-💬 Ask me about Next.js, Frame Motion, Tailwind CSS
+💬 Ask me about Next.js, Frame Motion, Tailwind CSS, and Laravel Livewire
 
-📫 How to reach me: redaezziani.dev@gmail.com 
-website:https://www.redaezziani.com/
-
+📫 How to reach me: redaezziani.dev@gmail.com
+website: https://www.redaezziani.com
 
 # 💻 Tech Stack:
 
@@ -27,20 +28,17 @@ website:https://www.redaezziani.com/
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-DB0000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Livewire-FF2D20?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 </p>
-
 
 **Other:**
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> 
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/livewire.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="livewire" />
 </p>
 
-
 <img src='./languages2.png' alt='Languages' /> <br/>
-
 
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redaezziani&theme=vue&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/redaezziani)
