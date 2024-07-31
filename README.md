@@ -1,5 +1,3 @@
-Here's the updated LinkedIn description incorporating Laravel Livewire:
-
 ---
 
 # 💫 About Me:
