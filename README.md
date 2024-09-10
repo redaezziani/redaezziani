@@ -41,7 +41,7 @@ website: https://www.redaezziani.com
 <img src='./languages2.png' alt='Languages' /> <br/>
 
 # 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redaezziani&theme=vue&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/redaezziani)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redaezziani&theme=vue&hide_border=false)](https://github.com/redaezziani)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redaezziani&theme=vue&hide_border=false)](https://github.com/redaezziani)
 
