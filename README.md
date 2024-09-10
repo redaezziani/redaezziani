@@ -35,6 +35,7 @@ website: https://www.redaezziani.com
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> 
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
+    <img src="https://img.shields.io/badge/JEST-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Jest" />
 </p>
 
 <img src='./languages2.png' alt='Languages' /> <br/>
