@@ -39,13 +39,3 @@ website: https://www.redaezziani.com
 </p>
 
 <img src='./languages2.png' alt='Languages' /> <br/>
-
-# 📊 GitHub Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redaezziani&theme=vue&hide_border=false)](https://github.com/redaezziani)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redaezziani&theme=vue&hide_border=false)](https://github.com/redaezziani)
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=redaezziani&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
