@@ -1,6 +1,7 @@
 ---
 
 # 💫 About Me:
+
 🌱 I’m currently learning Next.js, Laravel Livewire, and Volt
 
 💬 Ask me about Next.js, Frame Motion, Tailwind CSS, and Laravel Livewire
