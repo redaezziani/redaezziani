@@ -25,7 +25,7 @@ website: https://www.redaezziani.com
 **Backend:**
 <p>
  <img src="https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Express.js-?style4BCB49=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Express.js-6DA55F?style4BCB49=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
