@@ -13,7 +13,7 @@
 🤝 Open to collaborate on backend and automation projects
 
 📫 How to reach me: redaezziani.dev@gmail.com
-website: redaezziani.com
+website: [redaezziani.com](https://redaezziani.com/en/)
 
 # 💻 Tech Stack:
 **Frontend:** 
