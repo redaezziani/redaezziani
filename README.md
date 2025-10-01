@@ -2,15 +2,15 @@
 
 # 💫 About Me:
 
-🏢 Currently working on enterprise-scale microservices architecture
+Currently working on enterprise-scale microservices architecture
 
-💬 Ask me about Next.js, NestJS, backend development, and automation workflows
+Ask me about Next.js, NestJS, backend development, and automation workflows
 
-🔄 Experienced in designing and implementing distributed systems
+Experienced in designing and implementing distributed systems
 
-⚡ Specialized in building scalable applications with Next.js and NestJS
+Specialized in building scalable applications with Next.js and NestJS
 
-🤝 Open to collaborate on backend and automation projects
+Open to collaborate on backend and automation projects
 
 📫 How to reach me: redaezziani.dev@gmail.com
 website: [redaezziani.com](https://redaezziani.com/en/)
