@@ -1,6 +1,6 @@
 ---
 
-# 💫 About Me:
+# About Me:
 
 Currently working on enterprise-scale microservices architecture
 
@@ -12,10 +12,10 @@ Specialized in building scalable applications with Next.js and NestJS
 
 Open to collaborate on backend and automation projects
 
-📫 How to reach me: redaezziani.dev@gmail.com
+How to reach me: redaezziani.dev@gmail.com
 website: [redaezziani.com](https://redaezziani.com/en/)
 
-# 💻 Tech Stack:
+# Tech Stack:
 **Frontend:** 
 <p>
   <img src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />
